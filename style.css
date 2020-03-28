@@ -23,10 +23,15 @@ nav a:hover {
 h1 {
    font-size: 5em;
 }
-
+a {
+   text-decoration: none;
+}
 p {
    font-size: 1em;
    color: deepskyblue;
    width: 60%;
    margin: 0 auto;
+}
+ul{
+   list-style-type: none;
 }
