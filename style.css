@@ -32,6 +32,10 @@ p {
    width: 60%;
    margin: 0 auto;
 }
+.quebonitoo {
+   width: 10%;
+   margin: 20px auto;
+}
 ul{
    list-style-type: none;
    list-style-position: outside;
